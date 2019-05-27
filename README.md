@@ -1,7 +1,7 @@
 # Cakephp-Simple-Email-Template
 Cakephp Simple Email Template
 
-**Steps
+##Steps
 
 1. Install composer install
 
@@ -23,7 +23,7 @@ Cakephp Simple Email Template
 
 3. go into to the localhost, home page should be have an email address for you to enter, and enter your own email address, it should send you an email soon
 
-**How it works and what did I changed 
+##How it works and what did I changed 
 
 1. Modelless Form
 When trying to get data from view without amodel, you will need a modelless form, in this case, emaill address will be passed through
