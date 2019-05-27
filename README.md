@@ -34,7 +34,7 @@ In your project, you will need to create file call "Form" folder in `src`  and m
 2. Controller
 You do not need to create a sperate controller like me, but since I dont have any database/page to fall back on, I need a place to fallback on.
 
-You can compy my Email function, and include this in the top 
+You can copy my Email function from `/src/controller/emailingcontroller.php`, and include this in the top 
 ```
 use App\Form\EmailForm;
 use Cake\Mailer\Email;
