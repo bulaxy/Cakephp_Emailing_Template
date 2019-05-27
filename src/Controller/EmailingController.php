@@ -11,7 +11,7 @@ class EmailingController extends AppController
     {
         $email = new EmailForm();
         $var1 = "Yo";
-        $var2 = "I am Stupid";
+        $var2 = "Testing";
         $var3 = "Hi Hi";
         $url = "http://ie.infotech.monash.edu/foundation-system-build/app/";
         if ($this->request->is('post')) {
