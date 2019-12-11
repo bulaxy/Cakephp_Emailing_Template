@@ -1,4 +1,9 @@
-# Cakephp-Simple-Email-Template
+# Cakephp-Side-Featres
+
+## Update (11/12/19)
+
+Added Google ReCaptcha (Testing). 
+
 Cakephp Simple Email Template
 
 ## Steps
