@@ -4,7 +4,8 @@
 
 Added Google ReCaptcha (Testing). 
 
-Cakephp Simple Email Template
+
+# Cakephp Simple Email Template
 
 ## Steps
 
